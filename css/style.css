@@ -2411,7 +2411,7 @@ ul {
   /* line 2, /Applications/MAMP/htdocs/palash/cl/july 2019/july/195 Resume/195 resume html/sass/_banner.scss */
   .banner_part {
     height: 650px;
-    background-image: none;
+    /* background-image: none; */
   }
 }
 
@@ -2468,6 +2468,7 @@ ul {
     text-align: center;
     padding-top: 0px;
     height: 700px;
+    display: none;
   }
 }
 
