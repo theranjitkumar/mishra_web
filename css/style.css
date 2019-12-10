@@ -2191,7 +2191,9 @@ ul {
   padding-top: 0rem;
   padding-bottom: 0px;
 }
-
+.navbar-light .navbar-brand {
+  color: #fff;
+}
 /* line 50, /Applications/MAMP/htdocs/palash/cl/july 2019/july/195 Resume/195 resume html/sass/_menu.scss */
 .main_menu .menu_icon i {
   color: #fff;
